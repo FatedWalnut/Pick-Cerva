@@ -23,7 +23,7 @@ public class BeerExpert {
         if(tipo.equals("Cerveja Alemã")){
             sabores.add("Eisenbahn, ok nada contra");
             sabores.add("SCHNEIDER tem nome de gente parece dahora");
-            sabores.add("PAULANER, dahora mt bom");
+            sabores.add("PAULANER, dahora mto bom");
         }
         return  sabores;
     }
